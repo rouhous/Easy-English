@@ -1,1 +1,1 @@
-console.log("Easy English");
+console.log("Easy English v2");
